@@ -20,7 +20,7 @@ body{
     min-height: 100vh;
     padding: 50px;
 }
-.container.show-naw{
+.container.show-nav{
     transform: rotate(-20deg);
 }
 
@@ -68,7 +68,7 @@ body{
     transform-origin: top left;
 }
 .container.show-nav .circle{
-    transform: rotate(70deg);
+    transform: rotate(-70deg);
 }
 
 .content{
@@ -84,7 +84,7 @@ body{
 .content p{
     color: #333;
     line-height: 1.5;
-    
+    text-align: justify;
 }
 .content img{
     width: 100%;
