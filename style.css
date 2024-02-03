@@ -51,9 +51,9 @@ body{
     left: 50%;
     height: 100px;
     background-color: transparent;
-    color: #fff;
+    color: #333;
     border: none;
-    font-size: 26px;
+    font-size: 35px;
 
 }
 .circle button:focus{
@@ -92,7 +92,7 @@ body{
 }
 nav{
     position: fixed;
-    bottom: 25%;
+    bottom: 10%;
     left: 0;
     z-index: 100;
 }
@@ -121,3 +121,4 @@ nav ul li+li+li{
     transform: translateX(0);
     transition-delay: .3s;
 }
+
