@@ -1,4 +1,4 @@
-# Circle Navigation README
+# Circle Navigation 
 
 This project is a simple example of HTML, CSS, and JavaScript that enables opening and closing navigation within a circle.
 
